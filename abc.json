@@ -1,0 +1,14 @@
+{
+    "name": "ktypewriter",
+    "version": "1.0",
+    "desc": "打字机效果TypeWriter effect",
+    "cover": "",
+    "tag":"typewrite effect",
+    "author": {
+        "name": "紫英",
+        "email": "ziying.wzc@taobao.com",
+        "page": "http://techcheng.com"
+    },
+    "type": "kissy-gallery",
+    "type-url": "http://gallery.kissyui.com/guide"
+}
